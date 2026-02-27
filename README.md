@@ -12,7 +12,7 @@ Each story is available in both **English** and **Persian (فارسی)** in PDF 
 
 | # | Title | Core Concepts Covered | English | Persian (فارسی) |
 |---|-------|-----------------------|---------|-----------------|
-| 1 | **The Earthquake** (زلزله) | Multiple Equilibria, Hawk-Dove, Folk Theorem, Costly Signaling, End-Game Effect | [EN-PDF](./EN/1-Earthquake.pdf) | [FA-PDF](./FA/1-Earthquake.pdf) |
+| 1 | **The Earthquake** (زلزله) | Multiple Equilibria, Hawk-Dove, Folk Theorem, Costly Signaling, End-Game Effect | [EN-md](./EN/1-Earthquake.md) | [FA-PDF](./FA/1-Earthquake.pdf) |
 | 2 | *[Title of next text]* | *[Concepts]* | - | - |
 | 3 | *[Title of next text]* | *[Concepts]* | - | - |
 
